@@ -47,10 +47,10 @@ header-specific {
   color: #34526f;
 }
 .text-white {
-  color: #fff;
+  color: #fff !important;
 }
 .text-orange {
-  color: #EF9E43;
+  color: #EF9E43 !important;
 }
 .text-primary {
   color: #e74c3c;
@@ -492,7 +492,7 @@ nav hr {
   background: none;
 }
 .overlay-bar .has-dropdown:after {
-  color: #fff;
+  color: #EF9E43;
 }
 .menu {
   padding: 0;
@@ -541,10 +541,10 @@ nav hr {
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
 .overlay-bar .menu li a {
-  color: #fff;
+  color: #EF9E43;
 }
 .overlay-bar .menu li a:hover {
-  color: #fff;
+  color: #EEB677;
 }
 .overlay-bar .social-icons li a {
   color: #fff;
